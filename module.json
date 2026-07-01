@@ -1,0 +1,8 @@
+{
+  "id": "generic-faces",
+  "title": "Generic Faces",
+  "description": "Bulk generic face token images",
+  "version": "1.0.0",
+  "compatibility": { "minimum": "13", "verified": "13" },
+  "download": "https://github.com/Thjmze/GenericFacesModule/raw/refs/heads/main/generic-faces.zip"
+}
